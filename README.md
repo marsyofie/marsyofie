@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marsyofie
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Docker, Docker-compose
+- 🌱 I’m currently learning Docker, Swarm
 
 <!---
 marsyofie/marsyofie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
